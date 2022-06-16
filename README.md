@@ -8,5 +8,5 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
--My name is Asliddin
--Backend programmer
+  My name is Asliddin
+  Backend programmer
